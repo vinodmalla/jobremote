@@ -1,0 +1,1 @@
+export const company_logo="https://remotive.com/job/";
